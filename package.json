@@ -1,0 +1,20 @@
+{
+  "name": "Home_Day 2 - HTTP & WEB",
+  "version": "1.0.0",
+  "description": "Console Application to consume a public API",
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elahsoft/Home_Day2_HTTP_-_WEB.git"
+  },
+  "author": "OPARA FEBECHUKWU CHINONYEREM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elahsoft/Home_Day2_HTTP_-_WEB/issues"
+  },
+  "homepage": "https://github.com/elahsoft/Home_Day2_HTTP_-_WEB#readme",
+  "dependencies": {
+    "request-promise": "^4.1.1",
+    "request": "^2.79.0"
+  }
+}
